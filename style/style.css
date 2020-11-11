@@ -2,3 +2,7 @@ body{
     background-color: black;
     color: ghostwhite;
 }
+
+.content{
+    background-image: url("../images/lazysolutions.jpg");
+}
