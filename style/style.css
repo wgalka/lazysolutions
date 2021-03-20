@@ -93,5 +93,6 @@ footer.page-footer {
 
 #bottom-div h2 {
     font-size: 2vw;
+    justify-content: center;
     margin: 0;
 }
