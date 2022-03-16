@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="640"
+   height="640"
+   viewBox="0 0 169.33333 169.33333"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="LS1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ababab"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.73406285"
+     inkscape:cx="237.71806"
+     inkscape:cy="234.9935"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2"
+     units="px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     borderlayer="false"
+     inkscape:snap-grids="true"
+     showguides="true"
+     inkscape:snap-bbox="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid17" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <rect
+       x="219.32727"
+       y="303.7887"
+       width="87.185995"
+       height="96.721963"
+       id="rect9410" />
+    <rect
+       x="70.838621"
+       y="137.5904"
+       width="272.45623"
+       height="351.46854"
+       id="rect6248" />
+    <rect
+       x="100"
+       y="200"
+       width="320"
+       height="220"
+       id="rect1319" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Background"
+     style="display:inline">
+    <path
+       style="display:inline;fill:#000000;stroke-width:0.510541"
+       d="M -17.481188,80.016993 V -11.353759 H 76.953276 171.38774 V 80.016993 171.38774 H 76.953276 -17.481188 Z"
+       id="path109" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text1317"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1319);fill:#000000;fill-opacity:1;stroke:none" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text6246"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect6248);fill:#000000;fill-opacity:1;stroke:none" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:80.3525;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="58.751213"
+       y="80.377426"
+       id="text6518"
+       transform="translate(-21.626215,43.612865)"><tspan
+         x="58.751213"
+         y="80.377426"
+         id="tspan582"><tspan
+           style="font-size:105.833px;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT, Normal'"
+           id="tspan580">L</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:80.3525;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="58.751213"
+       y="80.377426"
+       id="text6518-5"
+       transform="translate(20.342138,35.375001)"><tspan
+         x="58.751213"
+         y="80.377426"
+         id="tspan586"><tspan
+           style="font-size:105.833px;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT, Normal'"
+           id="tspan584">S</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text9408"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect9410);fill:#000000;fill-opacity:1;stroke:none" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="86.504852"
+       y="28.114077"
+       id="text22956"><tspan
+         sodipodi:role="line"
+         id="tspan22954"
+         style="stroke-width:0.264583"
+         x="86.504852"
+         y="28.114077" /></text>
+  </g>
+</svg>
