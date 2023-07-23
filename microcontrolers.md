@@ -19,6 +19,14 @@ https://templates.blakadder.com/gosund_SP111.html
 
 https://github.com/xoseperez/hlw8012/blob/master/docs/HLW8012_pinout.png
 
+
+# Host config page
+https://randomnerdtutorials.com/esp32-useful-wi-fi-functions-arduino/
+
+https://randomnerdtutorials.com/esp32-web-server-arduino-ide/
+
+https://randomnerdtutorials.com/esp32-save-data-permanently-preferences/
+
 # AC/DC 230V to 5V 5W
 - [ECE05US05](https://www.tme.eu/pl/details/ece05us05/przetwornice-ac-dc-na-pcb/xp-power/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8tBt8x1XUKByDy9XwfZoqxgJGAmMT3xaS36LZtb1LkrngLM-_Cn70YaAgeHEALw_wcB&gclsrc=aw.ds) 25,4x25,4x15,24mm
 
