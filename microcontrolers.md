@@ -31,6 +31,8 @@ https://github.com/dvarrel/ESPAsyncWebSrv/blob/master/examples/CaptivePortal/Cap
 
 https://www.youtube.com/watch?v=smqPQm7hIfA
 
+https://www.youtube.com/watch?v=1VW-z4ibMXI
+
 # AC/DC 230V to 5V 5W
 - [ECE05US05](https://www.tme.eu/pl/details/ece05us05/przetwornice-ac-dc-na-pcb/xp-power/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8tBt8x1XUKByDy9XwfZoqxgJGAmMT3xaS36LZtb1LkrngLM-_Cn70YaAgeHEALw_wcB&gclsrc=aw.ds) 25,4x25,4x15,24mm
 
