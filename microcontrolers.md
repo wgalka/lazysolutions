@@ -19,6 +19,8 @@ https://templates.blakadder.com/gosund_SP111.html
 
 https://github.com/xoseperez/hlw8012/blob/master/docs/HLW8012_pinout.png
 
+# Flash using UART
+
 https://www.youtube.com/watch?v=lH7hVTUL7W8
 
 
