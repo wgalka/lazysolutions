@@ -23,6 +23,10 @@ https://github.com/xoseperez/hlw8012/blob/master/docs/HLW8012_pinout.png
 
 https://www.youtube.com/watch?v=lH7hVTUL7W8
 
+Configure correct eprom - QSPI or OPI
+
+https://www.espressif.com/sites/default/files/documentation/esp32-s3-wroom-2_datasheet_en.pdf
+
 # Host config page
 https://randomnerdtutorials.com/esp32-useful-wi-fi-functions-arduino/
 
