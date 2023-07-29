@@ -19,6 +19,10 @@ https://templates.blakadder.com/gosund_SP111.html
 
 https://github.com/xoseperez/hlw8012/blob/master/docs/HLW8012_pinout.png
 
+# OTA Server
+
+https://www.hackster.io/ErfanDL/esp-ota-dashboard-b81ba5
+
 # Flash using UART
 
 https://www.youtube.com/watch?v=lH7hVTUL7W8
